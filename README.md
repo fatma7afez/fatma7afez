@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatma Hafez</h1>
 <h3 align="center">I'm a Frontend Developer "Angular"</h3>
 
-- 🔭 I’m currently working on **Thinkloud LLC**
+- 🔭 I worked as a front-end developer at **Thinkloud LLC** from April 2022 to March 2025
 
 - 🌱 I’m currently learning **Computer Science and Software Engineering**
 
